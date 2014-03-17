@@ -53,3 +53,6 @@ local.properties
 
 # PDT-specific
 .buildpath
+
+# Atlas
+.jatlas-settings/
