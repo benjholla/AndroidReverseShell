@@ -27,3 +27,12 @@ proguard/
 *.ipr
 *.iws
 .idea/
+
+#Backup, swap, MacOS dir file, etc.
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+*.cache
+Thumbs.db
