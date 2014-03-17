@@ -14,4 +14,4 @@ To edit connection details modify the Socket constructor in the source:
 
 To listen for a connection use a program such as Netcat to listen on the specified port.
 
-Netcat Example: `nc -l -p 4444`
+Netcat Server Example: `nc -l -p 4444`
